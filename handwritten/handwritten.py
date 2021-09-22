@@ -1,0 +1,2 @@
+import pywhatkit as kit
+kit.text_to_handwriting('''Today Keira learned (on Python) how to type something and turn it into an image! Thats pretty cool, right? Like literally right now, she is typing this text into the programme, and THIS IS THE RESULT. Coding is so much fun.''')
